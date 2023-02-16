@@ -5,6 +5,10 @@ if [ $(id -u) -ne 0 ]; then
     exit 1
 fi
 
+# Update and upgrade the system
+sudo apt update -y
+sudo apt upgrade -y
+
 # Install proxy2swagger
 sudo pip3 install mitmproxy2swagger
 
