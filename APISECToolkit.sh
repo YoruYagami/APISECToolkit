@@ -15,6 +15,9 @@ sudo pip3 install mitmproxy2swagger
 # Install git
 sudo apt install git
 
+# Install gobuster
+sudo apt install gobuster
+
 # Install docker and docker-compose
 sudo apt install docker-compose
 sudo apt install docker.io
