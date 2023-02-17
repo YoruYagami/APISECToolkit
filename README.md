@@ -8,6 +8,7 @@ Specifically, the script installs the following programs:
 - git
  -docker and docker-compose
 - golang
+- gobuster
 - zaproxy
 - postman
 - jwt_tool
