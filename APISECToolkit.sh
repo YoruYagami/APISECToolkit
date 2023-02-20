@@ -31,6 +31,7 @@ sudo apt install zaproxy
 # Install latest postman
 sudo wget https://dl.pstmn.io/download/latest/linux64 -O postman-linux-x64.tar.gz
 sudo tar -zxvf postman-linux-x64.tar.gz -C /opt/
+sudo rm -rf postman-linux-x64.tar.gz
 sudo ln -s /opt/Postman/Postman /usr/bin/postman
 
 # Install jwt_tool
