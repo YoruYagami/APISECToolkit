@@ -6,7 +6,7 @@ Specifically, the script installs the following tools:
 
 - proxy2swagger
 - git
- -docker and docker-compose
+- docker and docker-compose
 - golang
 - gobuster
 - zaproxy
