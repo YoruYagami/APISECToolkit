@@ -2,7 +2,7 @@
 
 This Bash script is designed to automate the installation of several useful software and tools in order to take Corey Ball's API Penetration Testing course at university.apisec.ai
 
-Specifically, the script installs the following programs:
+Specifically, the script installs the following tools:
 
 - proxy2swagger
 - git
