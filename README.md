@@ -36,5 +36,3 @@ Installation of all the tools is done by using the commands sudo apt-get install
 The software will be installed in the /opt/ directory, and a symlink is created for each software so that the binaries can be accessed from the shell commands.
 
 The script requires execution with administrator privileges (run with the sudo command) and cannot be run without such privileges.
-
-Ultimately, the script simplifies the process of installing the listed software and tools, saving time.
