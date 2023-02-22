@@ -17,6 +17,11 @@ Specifically, the script installs the following tools:
 - kiterunner
 - arjun
 
+and download the following two labs in the /opt/lab/ directory
+
+- crAPI
+- vAPI
+
 ## Run Locally
 
 Clone the project
