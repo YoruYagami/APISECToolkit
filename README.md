@@ -15,7 +15,23 @@ Specifically, the script installs the following programs:
 - kiterunner
 - arjun
 
-Installation is done by using the commands sudo apt-get install and sudo pip3 install to download and install the necessary packages, along with some configuration tasks.
+### Installation and Usage
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/YoruYagami/APISECToolkit
+   ```
+2. Change Permission
+   ```sh
+   chmod +x APISECToolkit.sh
+   ```
+3. Execute
+   ```sh
+   sudo ./APISECToolkit.sh
+   ```
+
+
+Installation of all the tools is done by using the commands sudo apt-get install and sudo pip3 install to download and install the necessary packages, along with some configuration tasks.
 
 The software will be installed in the /opt/ directory, and a symlink is created for each software so that the binaries can be accessed from the shell commands.
 
