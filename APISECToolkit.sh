@@ -48,3 +48,12 @@ sudo ln -s /opt/kiterunner/dist/kr /usr/bin/kr
 # Install arjun
 sudo git clone https://github.com/s0md3v/Arjun.git /opt/Arjun
 cd /opt/Arjun && sudo python3 setup.py install
+
+# create lab directory
+sudo mkdir /opt/lab
+
+# downloading crAPI
+sudo git clone https://github.com/OWASP/crAPI.git /opt/lab/crAPI
+
+# downloading vAPI
+sudo git clone https://github.com/roottusk/vapi.git /opt/lab/vAPI
