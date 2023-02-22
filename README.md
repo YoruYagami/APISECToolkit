@@ -15,7 +15,7 @@ Specifically, the script installs the following programs:
 - kiterunner
 - arjun
 
-### Installation and Usage
+### Usage
 
 1. Clone the repo
    ```sh
