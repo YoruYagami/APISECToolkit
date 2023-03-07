@@ -3,10 +3,6 @@
 
 This Bash script is designed to automate the installation of several useful software and tools in order to take Corey Ball's API Penetration Testing course at university.apisec.ai
 
-Course -> https://www.apisecuniversity.com/courses/api-penetration-testing
-
-![63e57f3772147f02088c3b9d_api-pen-cert](https://user-images.githubusercontent.com/70035442/223392343-cd6cf3b1-e025-4b72-bd94-e604a768e857.png)
-
 Specifically, the script installs the following tools:
 
 - proxy2swagger
